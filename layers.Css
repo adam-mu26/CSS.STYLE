@@ -1,0 +1,57 @@
+.Header {
+    border: 10px color(a98-rgb red green blue);
+    border-style: solid;
+    text-align: center;
+    background-color: aqua;
+    margin-bottom: 5px;
+}
+
+.Side {
+    border: 5px color(srgb red green blue);
+    border-style: solid;
+    text-align:center;
+    width: 35%;
+    height: 600px;
+    padding: 20px;
+    background-color: green;
+    float: left;
+      
+       
+}
+
+.Main {
+    border: 5px color(srgb red green blue);
+    border-style: solid;
+    text-align: center;
+    width: 64.5%;
+    height: 600px;
+    background-color:purple ;
+    bottom: 650px;
+    float: right;
+}  
+
+.Footer {
+    border: 10px color(srgb red green blue);
+    border-style: solid;
+    text-align: center;
+    background-color: yellow;
+    margin-top: 5px;
+    height: 127px;
+
+}   
+
+.clear {
+    clear: both;
+}
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+    
+
+
+  
